@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Quick Start
 
-You can find a complete, ready-to-run example in `main.py`.
+You can find complete, ready-to-run examples in the `examples/` directory.
 
 ### 1. Define your scenario
 ```python
