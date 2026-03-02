@@ -1,5 +1,7 @@
 # See the Future
 
+<img width="258" height="354" alt="logo" src="https://github.com/user-attachments/assets/8899e52d-b3dd-4ccb-90d1-d641d46e1bfe" />
+
 **See the Future** is a Python-based framework that leverages the power of IBM Quantum Computing (via Qiskit) to perform advanced scenario simulations and predictive modeling.
 
 By converting complex chains of conditional and independent probabilities into quantum circuits, the framework enables simulations of real-world "future" scenarios—ranging from market conditions and startup success to logistics and policy impact analysis.
