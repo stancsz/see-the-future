@@ -27,9 +27,16 @@ pip install -r requirements.txt
 
 You can find complete, ready-to-run examples in the `examples/` directory.
 
-### Advanced AI and Quantum Scenario
+### Advanced AI and Quantum Scenario: The Perfect Fit for Deep Simulation
 
-We have added a complex simulation showcasing AI (e.g., Claude Code, Codex CLI) working with Quantum Computing, generating deep analysis metrics (such as Super-Exponential ROI based on AI-Quantum Symbiosis).
+Why combine AI and Quantum Computing for scenario simulation? They form a perfect symbiosis for navigating extreme complexity:
+
+*   **AI as the Architect:** Modern AI (like LLMs or specialized models) excels at parsing vast amounts of data to uncover subtle correlations and generate complex, multidimensional probability matrices. It builds the highly detailed "rules of the world."
+*   **Quantum Computing as the Engine:** Classical computers struggle to evaluate these complex, deeply interconnected probability chains because the number of possible outcomes grows exponentially. Quantum Computing, utilizing **superposition** and **entanglement**, can simultaneously represent and evaluate this exponentially large outcome space in a single execution step.
+
+Together, AI defines the intricate probabilities of the future, and Quantum Computing simulates them, providing a holistic view of deeply complex scenarios (like the impact of AGI, quantum breakthroughs, and regulatory shifts).
+
+We have added a complex simulation showcasing AI (e.g., Claude Code, Codex CLI) working with Quantum Computing to model events like "AI-Quantum Symbiosis" and measure "Super-Exponential ROI".
 
 To run this simulation:
 ```bash
