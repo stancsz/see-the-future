@@ -25,7 +25,16 @@ pip install -r requirements.txt
 
 ## Quick Start
 
-You can find a complete, ready-to-run example in `main.py`.
+You can find complete, ready-to-run examples in the `examples/` directory.
+
+### Advanced AI and Quantum Scenario
+
+We have added a complex simulation showcasing AI (e.g., Claude Code, Codex CLI) working with Quantum Computing, generating deep analysis metrics (such as Super-Exponential ROI based on AI-Quantum Symbiosis).
+
+To run this simulation:
+```bash
+PYTHONPATH=$(pwd) python examples/ai_quantum_simulation.py
+```
 
 ### 1. Define your scenario
 ```python
